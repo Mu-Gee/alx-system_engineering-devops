@@ -1,1 +1,1 @@
-This is the project directory
+This directory deals with shell basics.
